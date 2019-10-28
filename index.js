@@ -68,7 +68,7 @@ function makeSound(key){
             break;
         
         default:
-            alert("Press one of the buttons");
+            alert("Press one of the letters on the buttons");
             break;
     }
 }
